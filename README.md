@@ -10,6 +10,8 @@
 
 <img src="imagem/homepageteens.jpg" alt="foto da Landing Page que desenvolvemos na oficina." />
 
+Você pode visualizá-lo <a href="https://homepageoficinateens.netlify.app/" target="_blank"> aqui. </a>
+
 #### Conecte-se comigo em:
 <div>
 
