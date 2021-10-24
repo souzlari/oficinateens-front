@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho {
+    width: 100%;
+    background-color: #7e459b;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 4%;
+    padding-left: 4%;
+}
+
+.cabecalho h1, .cabecalho h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: #FFFFFF;
+}
+
+.cabecalho h1 {
+    font-size: 42px;
+}
+
+.cabecalho h2 {
+    font-size: 21px;
+}
+
+.principal {
+    width: 100%;
+    background-color: #2c2a2a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.caixa {
+    width: 30%;
+    height: 250px;
+    border-width: 5px;
+    border-style: double;
+    border-color: #FFFFFF;
+    padding: 5%;
+    margin: 80px 0;
+}
+
+.caixa h3, .caixa p {
+    color: #FFFFFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.caixa h3 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.caixa p {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.principal .listagem-mulheres {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.principal .listagem-mulheres .item-mulher {
+    width: 15%;
+    padding: 2%;
+}
+
+.principal .listagem-mulheres .item-mulher img {
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.principal .listagem-mulheres .item-mulher p {
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.rodape {
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 40px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape h4 {
+    font-family: 'Quicksand', sans-serif;
+    font-size:22px
+}
+
+.rodape h4 {
+    text-decoration: none;
+    color: #7e459b;
+}
