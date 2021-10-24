@@ -1,6 +1,6 @@
 <h1>Home Page Oficina Teens {reprograma}</h1>
 
-<p>Fui convidada pela {reprograma} a ajudar garotas/es de entre 14 - 17 anos a criar uma Landing Page do zero sobre mulheres na programação..</p>
+<p>Fui convidada pela {reprograma} a ajudar garotas/es de entre 14 - 17 anos a criar uma Landing Page do zero sobre mulheres na programação.</p>
 
 <h2><strong>HTML properties</strong></h2>
 <p>h1, h2, h3, h4, p, div class, strong, em, img, a</p>
